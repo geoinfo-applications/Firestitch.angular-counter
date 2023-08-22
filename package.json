@@ -1,0 +1,21 @@
+{
+  "name": "Firestitch.angular-counter",
+  "version": "0.0.1",
+  "description": "Temporary dummy project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geoinfo-applications/Firestitch.angular-counter.git"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "unknown",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geoinfo-applications/Firestitch.angular-counter/issues"
+  }
+}
